@@ -2803,3 +2803,4 @@ loopme.com, 15665, RESELLER, 6c8d5f95897a5a3b
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, RESELLER
 bluexad.ai, 1947919201712738304, RESELLER
 tradplusad.com, ba761e9c72f279da, RESELLER
+facebook.com, 325563239981529, DIRECT, c3e20eee3f780d68
